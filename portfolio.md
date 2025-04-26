@@ -1,4 +1,6 @@
-Welcome! Here is my portfolio.
+KYZO's portfolio
 
-https://youtu.be/AGl3A_DmEMI
-https://youtu.be/O2SLnXnkAtY
+---------------------------
+https://www.youtube.com/watch?v=43Fec-V3okk&ab_channel=Kyzo -- party system
+https://youtu.be/GN0H4s6Aqwc -- mining simulator 
+https://youtu.be/ywW49jDsMR4 -- npc dialogue
